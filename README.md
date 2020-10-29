@@ -1,3 +1,3 @@
 # chocolate-pizza
 
- was my partner for this project.
+ Cordell was my partner for this project.
