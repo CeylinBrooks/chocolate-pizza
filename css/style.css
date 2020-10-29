@@ -4,18 +4,21 @@ header a{
 }
 
 header div{
-  margin-bottom: 30px;
+  margin-bottom: 50px;
   float: left;
   text-align: left;
+  font-size: x-large;
   
 }
 
 h1{
-  margin-top: 10px;
-  margin-left: -50px;
+  margin-top: 20px;
+  margin-left: -75px;
   font-family: 'Patrick Hand SC', cursive;
+  font-size: smaller;
   float: left;
   text-align: left;
+  color: rgb(88, 87, 87);
 
 }
 
@@ -24,24 +27,30 @@ div{
 }
 
 #break-line{
-  padding: 50px;
-  width: 300px;
+  padding: 30px;
+  width: 30px;
   height: 5px;
   background-image: url("img/lab-assets/hr-img.png");
   background-repeat: repeat-y;
 
+}
+#choc-pizza{
+  display: block;
+  margin: auto;
+  width: 99.8%;
 }
 
 h2{
   margin-top: 60px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-weight: bold;
+  font-size: x-large;
 }
 
 h3{
+  font-size: smaller;
 
 }
-
 
 .first-icon{
   margin: auto;
@@ -52,4 +61,56 @@ h3{
 .second-icon{
   float: right;
 
+}
+#print{
+  margin: auto;
+  float: right;
+
+}
+/* #print-img{
+  float: right;
+} */
+p{
+  padding: 15px;
+  text-indent: 20px;
+}
+
+#letter{
+  margin:auto;
+  display: block;
+}
+
+#vanessa{
+  float: left;
+  
+}
+
+h4{
+  float: left;
+  /* padding: 15px; */
+  margin: 20px;
+  margin-top: 10px;
+  font-weight: bold;
+  color: rgb(66, 63, 63);
+
+}
+
+#footer-text{
+  float: left;
+  padding: 15px;
+  margin: -180px;
+  margin-top: 10px;
+  
+}
+
+
+#two{
+  float: right;
+  margin-top: 10px;
+  margin-right: 135px;
+  padding: 12px;
+  background-color: rgb(207, 69, 34);
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: small;
 }
