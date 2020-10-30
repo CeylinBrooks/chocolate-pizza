@@ -8,8 +8,17 @@ header a {
     float: left;
 }
 
+header nav {
+    float: right;
+    display: inline-block;
+}
+
 header {
     margin: 100px;
+}
+
+header li {
+    display: inline-block;
 }
 
 header div {
@@ -66,6 +75,7 @@ h3 {
 
 .second-icon {
     float: right;
+    margin-left: 15px;
 }
 
 #print {
@@ -90,7 +100,7 @@ p {
 
 #vanessa {
     float: left;
-    margin-left: 200px;
+    margin-left: 315px;
 }
 
 h4 {
@@ -112,7 +122,7 @@ h4 {
 #two {
     float: right;
     margin-top: 10px;
-    margin-right: 300px;
+    margin-right: 325px;
     padding: 12px;
     background-color: rgba(207, 69, 34, 0.836);
     color: white;
@@ -121,8 +131,8 @@ h4 {
 }
 
 #fork {
-    margin-top: 150px;
-    margin-left: 270px;
+    margin-top: 130px;
+    margin-left: 175px;
 }
 
 h5 {
